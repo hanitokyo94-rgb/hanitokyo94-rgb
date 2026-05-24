@@ -24,18 +24,9 @@ Hi, I'm **Hani** — **Discord & Node.js Developer** | **TypeScript Enthusiast**
 
 ## 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,npm,yarn,git,mongodb,postgres,redis,linux,docker&theme=dark" alt="Skills" />
+</div>
 
 ---
 
@@ -47,6 +38,14 @@ Hi, I'm **Hani** — **Discord & Node.js Developer** | **TypeScript Enthusiast**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanitokyo94-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanitokyo94-rgb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanitokyo94-rgb&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
